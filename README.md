@@ -13,7 +13,7 @@
 2. 透過 Git 將本專案 Fork 回個人的 GitHub 帳號下，再透過 `git clone` 複製專案回去。
 
     ```sh
-    git clone https://github.com/[YourGitHubID]/ng-advanced-220717.git
+    git clone https://github.com/[YourGitHubID]/sunnet-ng-14-adv.git
     cd sunnet-ng-14-adv
     ```
 
