@@ -8,13 +8,13 @@
 
 你可以透過兩種方式取得範例專案：
 
-1. 點擊右側的 [Releases](https://github.com/coolrare/ng-advanced-220717/releases) 下載 `Source code (zip)` 回去解壓縮。
+1. 點擊右側的 [Releases](https://github.com/coolrare/sunnet-ng-14-adv/releases) 下載 `Source code (zip)` 回去解壓縮。
 
 2. 透過 Git 將本專案 Fork 回個人的 GitHub 帳號下，再透過 `git clone` 複製專案回去。
 
     ```sh
     git clone https://github.com/[YourGitHubID]/ng-advanced-220717.git
-    cd ng-advanced-220717
+    cd sunnet-ng-14-adv
     ```
 
 取得專案後請依據已下步驟設定：
