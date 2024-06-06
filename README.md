@@ -39,7 +39,7 @@
 
 ## 練習套版過程
 
-1. 點擊右側的 [Releases](https://github.com/coolrare/ng-advanced-220717/releases) 下載  `startbootstrap-sb-admin-2-gh-pages.zip` 回去解壓縮。
+1. 點擊右側的 [Releases](https://github.com/coolrare/sunnet-ng-14-adv/releases) 下載  `startbootstrap-sb-admin-2-gh-pages.zip` 回去解壓縮。
 
 2. 透過 `ng new` 命令建立 Angular 專案
 
